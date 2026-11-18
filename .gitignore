@@ -13,3 +13,11 @@
 # Persistent data binaries (sample data can be generated automatically)
 data/*.tmp
 data/*.bak
+
+# Sensitive files
+.env
+*.key
+*.pem
+
+# Build directories
+build/
