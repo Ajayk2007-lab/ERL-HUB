@@ -1,0 +1,15 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Temporary and build artifacts
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Persistent data binaries (sample data can be generated automatically)
+data/*.tmp
+data/*.bak
